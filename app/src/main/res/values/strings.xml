@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentStatePagerAdapter</string>
+    <string name="hello_world">hello</string>
+</resources>
